@@ -1,0 +1,26 @@
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+
+.add {
+    border: none;
+    background: #7777;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 15px;
+
+}
+
+#todo-body {
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+.center {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
